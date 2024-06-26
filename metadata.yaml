@@ -1,0 +1,37 @@
+_repo: Voyage-a-travers-les-Cevennes-avec-un-ane_73904
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moulharac, Anatole
+    gutenberg_agent_id: '57268'
+    url: http://www.gutenberg.org/2009/agents/57268
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_issued: '2024-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73904'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9645866f/f1.item
+pgterms:marc905: 20240121081900stevenson
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bAu siège de la société, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage à travers les Cévennes avec un âne
+url: http://www.gutenberg.org/ebooks/73904
